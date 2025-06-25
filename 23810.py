@@ -1,0 +1,8 @@
+n = int(input())
+zt = ("@@@@@"*n+"\n")
+zb = ("@"*n+"\n")
+print(zt*n, end='')
+print(zb*n, end='')
+print(zt*n, end='')
+print(zb*n, end='')
+print(zb*n, end='')
